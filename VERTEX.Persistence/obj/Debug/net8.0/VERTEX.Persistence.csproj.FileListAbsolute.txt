@@ -1,0 +1,17 @@
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Persistence\bin\Debug\net8.0\VERTEX.Persistence.deps.json
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Persistence\bin\Debug\net8.0\VERTEX.Persistence.runtimeconfig.json
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Persistence\bin\Debug\net8.0\VERTEX.Persistence.dll
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Persistence\bin\Debug\net8.0\VERTEX.Persistence.pdb
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Persistence\bin\Debug\net8.0\VERTEX.Domain.dll
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Persistence\bin\Debug\net8.0\VERTEX.Domain.pdb
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Persistence\obj\Debug\net8.0\VERTEX.Persistence.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Persistence\obj\Debug\net8.0\VERTEX.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Persistence\obj\Debug\net8.0\VERTEX.Persistence.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Persistence\obj\Debug\net8.0\VERTEX.Persistence.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Persistence\obj\Debug\net8.0\VERTEX.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Persistence\obj\Debug\net8.0\VERTEX.P.C2ED9B78.Up2Date
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Persistence\obj\Debug\net8.0\VERTEX.Persistence.dll
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Persistence\obj\Debug\net8.0\refint\VERTEX.Persistence.dll
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Persistence\obj\Debug\net8.0\VERTEX.Persistence.pdb
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Persistence\obj\Debug\net8.0\VERTEX.Persistence.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Persistence\obj\Debug\net8.0\ref\VERTEX.Persistence.dll

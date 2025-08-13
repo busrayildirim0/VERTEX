@@ -1,0 +1,11 @@
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Domain\bin\Debug\net8.0\VERTEX.Domain.deps.json
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Domain\bin\Debug\net8.0\VERTEX.Domain.dll
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Domain\bin\Debug\net8.0\VERTEX.Domain.pdb
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Domain\obj\Debug\net8.0\VERTEX.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Domain\obj\Debug\net8.0\VERTEX.Domain.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Domain\obj\Debug\net8.0\VERTEX.Domain.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Domain\obj\Debug\net8.0\VERTEX.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Domain\obj\Debug\net8.0\VERTEX.Domain.dll
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Domain\obj\Debug\net8.0\refint\VERTEX.Domain.dll
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Domain\obj\Debug\net8.0\VERTEX.Domain.pdb
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Domain\obj\Debug\net8.0\ref\VERTEX.Domain.dll

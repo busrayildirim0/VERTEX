@@ -1,0 +1,625 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9917AA-2CD5-4D84-8231-FA15BCCE9AFB}|VERTEX.Persistence\\VERTEX.Persistence.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\vertex\\vertex\\vertex.persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9917AA-2CD5-4D84-8231-FA15BCCE9AFB}|VERTEX.Persistence\\VERTEX.Persistence.csproj|solutionrelative:vertex.persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9917AA-2CD5-4D84-8231-FA15BCCE9AFB}|VERTEX.Persistence\\VERTEX.Persistence.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\vertex\\vertex\\vertex.persistence\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9917AA-2CD5-4D84-8231-FA15BCCE9AFB}|VERTEX.Persistence\\VERTEX.Persistence.csproj|solutionrelative:vertex.persistence\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9917AA-2CD5-4D84-8231-FA15BCCE9AFB}|VERTEX.Persistence\\VERTEX.Persistence.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\vertex\\vertex\\vertex.persistence\\migrations\\20250810111101_addpasswordtouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9917AA-2CD5-4D84-8231-FA15BCCE9AFB}|VERTEX.Persistence\\VERTEX.Persistence.csproj|solutionrelative:vertex.persistence\\migrations\\20250810111101_addpasswordtouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9917AA-2CD5-4D84-8231-FA15BCCE9AFB}|VERTEX.Persistence\\VERTEX.Persistence.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\vertex\\vertex\\vertex.persistence\\migrations\\20250809141531_initclean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9917AA-2CD5-4D84-8231-FA15BCCE9AFB}|VERTEX.Persistence\\VERTEX.Persistence.csproj|solutionrelative:vertex.persistence\\migrations\\20250809141531_initclean.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6901D3D-164B-4F70-8D67-76C2DD1C6773}|VERTEX.Domain\\VERTEX.Domain.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\vertex\\vertex\\vertex.domain\\entities\\workspaceuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6901D3D-164B-4F70-8D67-76C2DD1C6773}|VERTEX.Domain\\VERTEX.Domain.csproj|solutionrelative:vertex.domain\\entities\\workspaceuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6901D3D-164B-4F70-8D67-76C2DD1C6773}|VERTEX.Domain\\VERTEX.Domain.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\vertex\\vertex\\vertex.domain\\entities\\workspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6901D3D-164B-4F70-8D67-76C2DD1C6773}|VERTEX.Domain\\VERTEX.Domain.csproj|solutionrelative:vertex.domain\\entities\\workspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6901D3D-164B-4F70-8D67-76C2DD1C6773}|VERTEX.Domain\\VERTEX.Domain.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\vertex\\vertex\\vertex.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6901D3D-164B-4F70-8D67-76C2DD1C6773}|VERTEX.Domain\\VERTEX.Domain.csproj|solutionrelative:vertex.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6901D3D-164B-4F70-8D67-76C2DD1C6773}|VERTEX.Domain\\VERTEX.Domain.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\vertex\\vertex\\vertex.domain\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6901D3D-164B-4F70-8D67-76C2DD1C6773}|VERTEX.Domain\\VERTEX.Domain.csproj|solutionrelative:vertex.domain\\entities\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6901D3D-164B-4F70-8D67-76C2DD1C6773}|VERTEX.Domain\\VERTEX.Domain.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\vertex\\vertex\\vertex.domain\\entities\\channeluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6901D3D-164B-4F70-8D67-76C2DD1C6773}|VERTEX.Domain\\VERTEX.Domain.csproj|solutionrelative:vertex.domain\\entities\\channeluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6901D3D-164B-4F70-8D67-76C2DD1C6773}|VERTEX.Domain\\VERTEX.Domain.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\vertex\\vertex\\vertex.domain\\entities\\channel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6901D3D-164B-4F70-8D67-76C2DD1C6773}|VERTEX.Domain\\VERTEX.Domain.csproj|solutionrelative:vertex.domain\\entities\\channel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DE8C7B-7215-4077-9DEB-F11739EFF59C}|VERTEX.Application\\VERTEX.Application.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\vertex\\vertex\\vertex.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66DE8C7B-7215-4077-9DEB-F11739EFF59C}|VERTEX.Application\\VERTEX.Application.csproj|solutionrelative:vertex.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DE8C7B-7215-4077-9DEB-F11739EFF59C}|VERTEX.Application\\VERTEX.Application.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\vertex\\vertex\\vertex.application\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66DE8C7B-7215-4077-9DEB-F11739EFF59C}|VERTEX.Application\\VERTEX.Application.csproj|solutionrelative:vertex.application\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DE8C7B-7215-4077-9DEB-F11739EFF59C}|VERTEX.Application\\VERTEX.Application.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\vertex\\vertex\\vertex.application\\services\\ichannelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66DE8C7B-7215-4077-9DEB-F11739EFF59C}|VERTEX.Application\\VERTEX.Application.csproj|solutionrelative:vertex.application\\services\\ichannelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DE8C7B-7215-4077-9DEB-F11739EFF59C}|VERTEX.Application\\VERTEX.Application.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\vertex\\vertex\\vertex.application\\services\\channelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66DE8C7B-7215-4077-9DEB-F11739EFF59C}|VERTEX.Application\\VERTEX.Application.csproj|solutionrelative:vertex.application\\services\\channelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DE8C7B-7215-4077-9DEB-F11739EFF59C}|VERTEX.Application\\VERTEX.Application.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\vertex\\vertex\\vertex.application\\dtos\\workspacedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66DE8C7B-7215-4077-9DEB-F11739EFF59C}|VERTEX.Application\\VERTEX.Application.csproj|solutionrelative:vertex.application\\dtos\\workspacedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DE8C7B-7215-4077-9DEB-F11739EFF59C}|VERTEX.Application\\VERTEX.Application.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\vertex\\vertex\\vertex.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66DE8C7B-7215-4077-9DEB-F11739EFF59C}|VERTEX.Application\\VERTEX.Application.csproj|solutionrelative:vertex.application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DE8C7B-7215-4077-9DEB-F11739EFF59C}|VERTEX.Application\\VERTEX.Application.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\vertex\\vertex\\vertex.application\\dtos\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66DE8C7B-7215-4077-9DEB-F11739EFF59C}|VERTEX.Application\\VERTEX.Application.csproj|solutionrelative:vertex.application\\dtos\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DE8C7B-7215-4077-9DEB-F11739EFF59C}|VERTEX.Application\\VERTEX.Application.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\vertex\\vertex\\vertex.application\\dtos\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66DE8C7B-7215-4077-9DEB-F11739EFF59C}|VERTEX.Application\\VERTEX.Application.csproj|solutionrelative:vertex.application\\dtos\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DE8C7B-7215-4077-9DEB-F11739EFF59C}|VERTEX.Application\\VERTEX.Application.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\vertex\\vertex\\vertex.application\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66DE8C7B-7215-4077-9DEB-F11739EFF59C}|VERTEX.Application\\VERTEX.Application.csproj|solutionrelative:vertex.application\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DE8C7B-7215-4077-9DEB-F11739EFF59C}|VERTEX.Application\\VERTEX.Application.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\vertex\\vertex\\vertex.application\\dtos\\channeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66DE8C7B-7215-4077-9DEB-F11739EFF59C}|VERTEX.Application\\VERTEX.Application.csproj|solutionrelative:vertex.application\\dtos\\channeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FE7643-7AAE-47C6-A4A1-2AC228C1BB1B}|VERTEX.API\\VERTEX.API.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\vertex\\vertex\\vertex.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FE7643-7AAE-47C6-A4A1-2AC228C1BB1B}|VERTEX.API\\VERTEX.API.csproj|solutionrelative:vertex.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FE7643-7AAE-47C6-A4A1-2AC228C1BB1B}|VERTEX.API\\VERTEX.API.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\vertex\\vertex\\vertex.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76FE7643-7AAE-47C6-A4A1-2AC228C1BB1B}|VERTEX.API\\VERTEX.API.csproj|solutionrelative:vertex.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FE7643-7AAE-47C6-A4A1-2AC228C1BB1B}|VERTEX.API\\VERTEX.API.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\vertex\\vertex\\vertex.api\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FE7643-7AAE-47C6-A4A1-2AC228C1BB1B}|VERTEX.API\\VERTEX.API.csproj|solutionrelative:vertex.api\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FE7643-7AAE-47C6-A4A1-2AC228C1BB1B}|VERTEX.API\\VERTEX.API.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\vertex\\vertex\\vertex.api\\controllers\\workspacescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FE7643-7AAE-47C6-A4A1-2AC228C1BB1B}|VERTEX.API\\VERTEX.API.csproj|solutionrelative:vertex.api\\controllers\\workspacescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FE7643-7AAE-47C6-A4A1-2AC228C1BB1B}|VERTEX.API\\VERTEX.API.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\vertex\\vertex\\vertex.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FE7643-7AAE-47C6-A4A1-2AC228C1BB1B}|VERTEX.API\\VERTEX.API.csproj|solutionrelative:vertex.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FE7643-7AAE-47C6-A4A1-2AC228C1BB1B}|VERTEX.API\\VERTEX.API.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\vertex\\vertex\\vertex.api\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FE7643-7AAE-47C6-A4A1-2AC228C1BB1B}|VERTEX.API\\VERTEX.API.csproj|solutionrelative:vertex.api\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FE7643-7AAE-47C6-A4A1-2AC228C1BB1B}|VERTEX.API\\VERTEX.API.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\vertex\\vertex\\vertex.api\\controllers\\channelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76FE7643-7AAE-47C6-A4A1-2AC228C1BB1B}|VERTEX.API\\VERTEX.API.csproj|solutionrelative:vertex.api\\controllers\\channelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FE7643-7AAE-47C6-A4A1-2AC228C1BB1B}|VERTEX.API\\VERTEX.API.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\vertex\\vertex\\vertex.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76FE7643-7AAE-47C6-A4A1-2AC228C1BB1B}|VERTEX.API\\VERTEX.API.csproj|solutionrelative:vertex.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9917AA-2CD5-4D84-8231-FA15BCCE9AFB}|VERTEX.Persistence\\VERTEX.Persistence.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\vertex\\vertex\\vertex.persistence\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9917AA-2CD5-4D84-8231-FA15BCCE9AFB}|VERTEX.Persistence\\VERTEX.Persistence.csproj|solutionrelative:vertex.persistence\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66DE8C7B-7215-4077-9DEB-F11739EFF59C}|VERTEX.Application\\VERTEX.Application.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\vertex\\vertex\\vertex.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66DE8C7B-7215-4077-9DEB-F11739EFF59C}|VERTEX.Application\\VERTEX.Application.csproj|solutionrelative:vertex.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58558912-23B2-439F-AD0E-01EEFD40F4B6}|VERTEX\\VERTEX.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\vertex\\vertex\\vertex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58558912-23B2-439F-AD0E-01EEFD40F4B6}|VERTEX\\VERTEX.csproj|solutionrelative:vertex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{430DEE08-B6C4-4EF4-BCBC-E674872A0872}|VERTEX.Infrastructure\\VERTEX.Infrastructure.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\vertex\\vertex\\vertex.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{430DEE08-B6C4-4EF4-BCBC-E674872A0872}|VERTEX.Infrastructure\\VERTEX.Infrastructure.csproj|solutionrelative:vertex.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FE7643-7AAE-47C6-A4A1-2AC228C1BB1B}|VERTEX.API\\VERTEX.API.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\vertex\\vertex\\vertex.api\\vertex.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{76FE7643-7AAE-47C6-A4A1-2AC228C1BB1B}|VERTEX.API\\VERTEX.API.csproj|solutionrelative:vertex.api\\vertex.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76FE7643-7AAE-47C6-A4A1-2AC228C1BB1B}|VERTEX.API\\VERTEX.API.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\vertex\\vertex\\vertex.api\\vertex.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{76FE7643-7AAE-47C6-A4A1-2AC228C1BB1B}|VERTEX.API\\VERTEX.API.csproj|solutionrelative:vertex.api\\vertex.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6901D3D-164B-4F70-8D67-76C2DD1C6773}|VERTEX.Domain\\VERTEX.Domain.csproj|c:\\users\\hp\\onedrive\\masa\u00FCst\u00FC\\vertex\\vertex\\vertex.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6901D3D-164B-4F70-8D67-76C2DD1C6773}|VERTEX.Domain\\VERTEX.Domain.csproj|solutionrelative:vertex.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ChannelDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Application\\DTOs\\ChannelDto.cs",
+              "RelativeDocumentMoniker": "VERTEX.Application\\DTOs\\ChannelDto.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Application\\DTOs\\ChannelDto.cs",
+              "RelativeToolTip": "VERTEX.Application\\DTOs\\ChannelDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T11:10:39.241Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250809141531_InitClean.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Persistence\\Migrations\\20250809141531_InitClean.cs",
+              "RelativeDocumentMoniker": "VERTEX.Persistence\\Migrations\\20250809141531_InitClean.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Persistence\\Migrations\\20250809141531_InitClean.cs",
+              "RelativeToolTip": "VERTEX.Persistence\\Migrations\\20250809141531_InitClean.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T16:09:03.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250810111101_AddPasswordToUser.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Persistence\\Migrations\\20250810111101_AddPasswordToUser.cs",
+              "RelativeDocumentMoniker": "VERTEX.Persistence\\Migrations\\20250810111101_AddPasswordToUser.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Persistence\\Migrations\\20250810111101_AddPasswordToUser.cs",
+              "RelativeToolTip": "VERTEX.Persistence\\Migrations\\20250810111101_AddPasswordToUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T12:00:05.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Persistence\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "VERTEX.Persistence\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Persistence\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "VERTEX.Persistence\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T16:09:04.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "VERTEX.Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "VERTEX.Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T09:32:45.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkspaceUser.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Domain\\Entities\\WorkspaceUser.cs",
+              "RelativeDocumentMoniker": "VERTEX.Domain\\Entities\\WorkspaceUser.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Domain\\Entities\\WorkspaceUser.cs",
+              "RelativeToolTip": "VERTEX.Domain\\Entities\\WorkspaceUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T12:50:31.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Workspace.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Domain\\Entities\\Workspace.cs",
+              "RelativeDocumentMoniker": "VERTEX.Domain\\Entities\\Workspace.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Domain\\Entities\\Workspace.cs",
+              "RelativeToolTip": "VERTEX.Domain\\Entities\\Workspace.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T12:49:45.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "VERTEX.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "VERTEX.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T09:23:36.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Domain\\Entities\\Message.cs",
+              "RelativeDocumentMoniker": "VERTEX.Domain\\Entities\\Message.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Domain\\Entities\\Message.cs",
+              "RelativeToolTip": "VERTEX.Domain\\Entities\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T14:58:05.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChannelUser.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Domain\\Entities\\ChannelUser.cs",
+              "RelativeDocumentMoniker": "VERTEX.Domain\\Entities\\ChannelUser.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Domain\\Entities\\ChannelUser.cs",
+              "RelativeToolTip": "VERTEX.Domain\\Entities\\ChannelUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T10:58:13.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Channel.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Domain\\Entities\\Channel.cs",
+              "RelativeDocumentMoniker": "VERTEX.Domain\\Entities\\Channel.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Domain\\Entities\\Channel.cs",
+              "RelativeToolTip": "VERTEX.Domain\\Entities\\Channel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T13:39:27.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "VERTEX.Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "VERTEX.Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAwwEkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T11:12:57.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Application\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "VERTEX.Application\\Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Application\\Services\\IUserService.cs",
+              "RelativeToolTip": "VERTEX.Application\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T11:12:23.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IChannelService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Application\\Services\\IChannelService.cs",
+              "RelativeDocumentMoniker": "VERTEX.Application\\Services\\IChannelService.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Application\\Services\\IChannelService.cs",
+              "RelativeToolTip": "VERTEX.Application\\Services\\IChannelService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T21:04:26.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChannelService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Application\\Services\\ChannelService.cs",
+              "RelativeDocumentMoniker": "VERTEX.Application\\Services\\ChannelService.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Application\\Services\\ChannelService.cs",
+              "RelativeToolTip": "VERTEX.Application\\Services\\ChannelService.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAswGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T21:05:09.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WorkspaceDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Application\\DTOs\\WorkspaceDto.cs",
+              "RelativeDocumentMoniker": "VERTEX.Application\\DTOs\\WorkspaceDto.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Application\\DTOs\\WorkspaceDto.cs",
+              "RelativeToolTip": "VERTEX.Application\\DTOs\\WorkspaceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T11:10:02.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Application\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "VERTEX.Application\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Application\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "VERTEX.Application\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T11:09:35.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Application\\DTOs\\RegisterRequestDto.cs",
+              "RelativeDocumentMoniker": "VERTEX.Application\\DTOs\\RegisterRequestDto.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Application\\DTOs\\RegisterRequestDto.cs",
+              "RelativeToolTip": "VERTEX.Application\\DTOs\\RegisterRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T14:28:19.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MessageDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Application\\DTOs\\MessageDto.cs",
+              "RelativeDocumentMoniker": "VERTEX.Application\\DTOs\\MessageDto.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Application\\DTOs\\MessageDto.cs",
+              "RelativeToolTip": "VERTEX.Application\\DTOs\\MessageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T11:11:12.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Application\\DTOs\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "VERTEX.Application\\DTOs\\LoginRequestDto.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Application\\DTOs\\LoginRequestDto.cs",
+              "RelativeToolTip": "VERTEX.Application\\DTOs\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T12:03:15.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.API\\Program.cs",
+              "RelativeDocumentMoniker": "VERTEX.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.API\\Program.cs",
+              "RelativeToolTip": "VERTEX.API\\Program.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T20:55:43.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.API\\appsettings.json",
+              "RelativeDocumentMoniker": "VERTEX.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.API\\appsettings.json",
+              "RelativeToolTip": "VERTEX.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-05T20:57:46.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.API\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "VERTEX.API\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.API\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "VERTEX.API\\Hubs\\ChatHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T16:12:13.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WorkspacesController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.API\\Controllers\\WorkspacesController.cs",
+              "RelativeDocumentMoniker": "VERTEX.API\\Controllers\\WorkspacesController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.API\\Controllers\\WorkspacesController.cs",
+              "RelativeToolTip": "VERTEX.API\\Controllers\\WorkspacesController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAowGUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-08T15:46:14.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "VERTEX.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "VERTEX.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAwwIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T09:35:34.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MessagesController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.API\\Controllers\\MessagesController.cs",
+              "RelativeDocumentMoniker": "VERTEX.API\\Controllers\\MessagesController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.API\\Controllers\\MessagesController.cs",
+              "RelativeToolTip": "VERTEX.API\\Controllers\\MessagesController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAowGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T15:04:02.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ChannelsController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.API\\Controllers\\ChannelsController.cs",
+              "RelativeDocumentMoniker": "VERTEX.API\\Controllers\\ChannelsController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.API\\Controllers\\ChannelsController.cs",
+              "RelativeToolTip": "VERTEX.API\\Controllers\\ChannelsController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAIwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T13:50:55.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "VERTEX.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "VERTEX.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-10T11:22:52.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Persistence\\Class1.cs",
+              "RelativeDocumentMoniker": "VERTEX.Persistence\\Class1.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Persistence\\Class1.cs",
+              "RelativeToolTip": "VERTEX.Persistence\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T20:37:33.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "VERTEX.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Application\\Class1.cs",
+              "RelativeToolTip": "VERTEX.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T20:36:15.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX\\Program.cs",
+              "RelativeDocumentMoniker": "VERTEX\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX\\Program.cs",
+              "RelativeToolTip": "VERTEX\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAEBVwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T10:02:10.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "VERTEX.Infrastructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "VERTEX.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T20:36:53.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "VERTEX.API.http",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.API\\VERTEX.API.http",
+              "RelativeDocumentMoniker": "VERTEX.API\\VERTEX.API.http",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.API\\VERTEX.API.http",
+              "RelativeToolTip": "VERTEX.API\\VERTEX.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-07T12:18:37.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "VERTEX.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.API\\VERTEX.API.csproj",
+              "RelativeDocumentMoniker": "VERTEX.API\\VERTEX.API.csproj",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.API\\VERTEX.API.csproj",
+              "RelativeToolTip": "VERTEX.API\\VERTEX.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-05T20:55:39.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "VERTEX.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Masa\u00FCst\u00FC\\VERTEX\\VERTEX\\VERTEX.Domain\\Class1.cs",
+              "RelativeToolTip": "VERTEX.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T20:35:21.153Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

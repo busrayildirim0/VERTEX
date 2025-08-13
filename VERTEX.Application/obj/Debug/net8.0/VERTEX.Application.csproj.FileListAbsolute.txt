@@ -1,0 +1,17 @@
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Application\bin\Debug\net8.0\VERTEX.Application.deps.json
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Application\bin\Debug\net8.0\VERTEX.Application.dll
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Application\bin\Debug\net8.0\VERTEX.Application.pdb
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Application\bin\Debug\net8.0\VERTEX.Domain.dll
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Application\bin\Debug\net8.0\VERTEX.Persistence.dll
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Application\bin\Debug\net8.0\VERTEX.Domain.pdb
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Application\bin\Debug\net8.0\VERTEX.Persistence.pdb
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Application\obj\Debug\net8.0\VERTEX.Application.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Application\obj\Debug\net8.0\VERTEX.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Application\obj\Debug\net8.0\VERTEX.Application.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Application\obj\Debug\net8.0\VERTEX.Application.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Application\obj\Debug\net8.0\VERTEX.Application.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Application\obj\Debug\net8.0\VERTEX.A.EC463315.Up2Date
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Application\obj\Debug\net8.0\VERTEX.Application.dll
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Application\obj\Debug\net8.0\refint\VERTEX.Application.dll
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Application\obj\Debug\net8.0\VERTEX.Application.pdb
+C:\Users\Hp\OneDrive\Masaüstü\VERTEX\VERTEX\VERTEX.Application\obj\Debug\net8.0\ref\VERTEX.Application.dll

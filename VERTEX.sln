@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VERTEX", "VERTEX\VERTEX.csproj", "{58558912-23B2-439F-AD0E-01EEFD40F4B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VERTEX.API", "VERTEX.API\VERTEX.API.csproj", "{76FE7643-7AAE-47C6-A4A1-2AC228C1BB1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VERTEX.Domain", "VERTEX.Domain\VERTEX.Domain.csproj", "{C6901D3D-164B-4F70-8D67-76C2DD1C6773}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VERTEX.Application", "VERTEX.Application\VERTEX.Application.csproj", "{66DE8C7B-7215-4077-9DEB-F11739EFF59C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VERTEX.Infrastructure", "VERTEX.Infrastructure\VERTEX.Infrastructure.csproj", "{430DEE08-B6C4-4EF4-BCBC-E674872A0872}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VERTEX.Persistence", "VERTEX.Persistence\VERTEX.Persistence.csproj", "{2A9917AA-2CD5-4D84-8231-FA15BCCE9AFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58558912-23B2-439F-AD0E-01EEFD40F4B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58558912-23B2-439F-AD0E-01EEFD40F4B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58558912-23B2-439F-AD0E-01EEFD40F4B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58558912-23B2-439F-AD0E-01EEFD40F4B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76FE7643-7AAE-47C6-A4A1-2AC228C1BB1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76FE7643-7AAE-47C6-A4A1-2AC228C1BB1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76FE7643-7AAE-47C6-A4A1-2AC228C1BB1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76FE7643-7AAE-47C6-A4A1-2AC228C1BB1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6901D3D-164B-4F70-8D67-76C2DD1C6773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6901D3D-164B-4F70-8D67-76C2DD1C6773}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6901D3D-164B-4F70-8D67-76C2DD1C6773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6901D3D-164B-4F70-8D67-76C2DD1C6773}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66DE8C7B-7215-4077-9DEB-F11739EFF59C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66DE8C7B-7215-4077-9DEB-F11739EFF59C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66DE8C7B-7215-4077-9DEB-F11739EFF59C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66DE8C7B-7215-4077-9DEB-F11739EFF59C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{430DEE08-B6C4-4EF4-BCBC-E674872A0872}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{430DEE08-B6C4-4EF4-BCBC-E674872A0872}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{430DEE08-B6C4-4EF4-BCBC-E674872A0872}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{430DEE08-B6C4-4EF4-BCBC-E674872A0872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A9917AA-2CD5-4D84-8231-FA15BCCE9AFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A9917AA-2CD5-4D84-8231-FA15BCCE9AFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A9917AA-2CD5-4D84-8231-FA15BCCE9AFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A9917AA-2CD5-4D84-8231-FA15BCCE9AFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {695C1AE9-A3EA-4771-8F31-F63638AF0629}
+	EndGlobalSection
+EndGlobal
